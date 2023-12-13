@@ -173,6 +173,10 @@ header {
     margin-bottom: 20px;
 }
 
+.mb16 {
+    margin-bottom: 16px;
+}
+
 .boo-title {
     padding: 4px 10px;
 }
