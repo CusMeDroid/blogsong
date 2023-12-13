@@ -158,6 +158,12 @@ header {
     color: white;
 }
 
+.iframe {
+    width:100%;
+    height:300px;
+    margin-bottom: 8px;
+}
+
 .main-content {
     max-width: 1000px;
     padding: 12px;
